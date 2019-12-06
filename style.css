@@ -1,0 +1,42 @@
+* {
+    font-size: 22px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+body {
+    background-image: url(./nature.jpg);
+
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 6px 6px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.my_input {
+    margin-bottom: 70px;
+}
+
+#calculate {
+    display: block;
+    margin: 0 auto;
+}
+
+#inn {
+    height: 30px;
+    width: 100%;
+    margin: 30px 0px;
+}
+
+label {
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+}
